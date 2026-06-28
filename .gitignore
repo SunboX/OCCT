@@ -10,6 +10,7 @@
 !/.gitattributes
 !/.gitignore
 !/.tgitconfig
+!/AGENTS.md
 !/CMakeLists.txt
 !/LICENSE_LGPL_21.txt
 !/OCCT_LGPL_EXCEPTION.txt
